@@ -1,0 +1,27 @@
+2. Define any two from the following:
+
+a- Header files
+b- Source code
+c- Comments
+
+solution:
+
+a) header files:
+A header file is a file that contains reusable code such as function prototypes, definitions, constants, and macros, which can be included in a program using #include.
+example:
+#include <iostream> // header file for input/output functions like cout, cin.
+
+b) Source code:
+Source code is the human-readable set of instructions written by a programmer using a programming language such as C++, Java, Python, etc. This language is not direct understood by computer it has to be converted into machine code before execution.
+
+c)Comments:
+Comments are notes written inside a program to explain what the code does.
+They are ignored by the compiler, meaning they do not affect the program's output.
+There are two types of comments:
+sinale line comments
+// This is a single-line comment
+cout << "Hello":
+multi line comments
+/* This is a
+multi-line comment */
+cout << "Hello";
